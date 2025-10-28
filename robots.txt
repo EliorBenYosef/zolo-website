@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zolo-deals.com/sitemap.xml
